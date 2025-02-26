@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\walte\\source\\repos\\FormPractica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{561435C2-0D50-433F-A0FC-49E0A11F8C98}|FormPractica.csproj|c:\\users\\walte\\source\\repos\\formpractica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561435C2-0D50-433F-A0FC-49E0A11F8C98}|FormPractica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{561435C2-0D50-433F-A0FC-49E0A11F8C98}|FormPractica.csproj|c:\\users\\walte\\source\\repos\\formpractica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{561435C2-0D50-433F-A0FC-49E0A11F8C98}|FormPractica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\FormPractica\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\FormPractica\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:34:32.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\FormPractica\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

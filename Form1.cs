@@ -16,5 +16,20 @@ namespace FormPractica
         {
             InitializeComponent();
         }
+
+        private void acceptButton_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string nombre = (nombreBox.Text);
+                string apellidos = (apellidosBox.Text);
+
+                MessageBox.Show("Hola " + nombre + " " + apellidos);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
     }
 }

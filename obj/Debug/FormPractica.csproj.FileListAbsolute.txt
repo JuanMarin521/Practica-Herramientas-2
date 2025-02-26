@@ -1,0 +1,10 @@
+C:\Users\walte\source\repos\FormPractica\bin\Debug\FormPractica.exe.config
+C:\Users\walte\source\repos\FormPractica\bin\Debug\FormPractica.exe
+C:\Users\walte\source\repos\FormPractica\bin\Debug\FormPractica.pdb
+C:\Users\walte\source\repos\FormPractica\obj\Debug\FormPractica.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\FormPractica\obj\Debug\FormPractica.Form1.resources
+C:\Users\walte\source\repos\FormPractica\obj\Debug\FormPractica.Properties.Resources.resources
+C:\Users\walte\source\repos\FormPractica\obj\Debug\FormPractica.csproj.GenerateResource.cache
+C:\Users\walte\source\repos\FormPractica\obj\Debug\FormPractica.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\FormPractica\obj\Debug\FormPractica.exe
+C:\Users\walte\source\repos\FormPractica\obj\Debug\FormPractica.pdb
